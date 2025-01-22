@@ -12,7 +12,7 @@ public class MaxBinOut {
 
         int result = (int) (Math.pow(2, n) - 1);
 
-        System.out.println("Result: " + result);
+        System.out.println("\nResult: " + result);
 
         Main.restart();
     }    
